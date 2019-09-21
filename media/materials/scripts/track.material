@@ -5,7 +5,7 @@ material track{
         {
             texture_unit
             {
-                texture ../textures/spa.png
+                texture ../textures/monza.png
             }
         }   
     }
